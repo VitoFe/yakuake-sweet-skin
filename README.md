@@ -15,7 +15,7 @@ A sleek and modern Yakuake skin inspired by the Sweet KDE theme. This skin bring
 
 ## Installation
 
-1. Download the latest release from the releases page.
+1. Download the latest release from the [Releases page](https://github.com/VitoFe/yakuake-sweet-skin/releases/latest) or from [Pling](https://www.pling.com/p/2210829/).
 2. Open Yakuake and go to `Configure Yakuake...`.
 3. Navigate to the `Appearance` tab.
 4. Click on `Install Skin...` and select the downloaded archive.
